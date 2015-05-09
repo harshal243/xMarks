@@ -1,0 +1,17 @@
+[
+  {
+      "categoryId": "1",
+      "name": "Javascript",
+      "parentCategoryId": ""
+   },
+   {
+      "categoryId": "2",
+      "name": "Jquery",
+      "parentCategoryId": "1"
+  },
+  {
+     "categoryId": "3",
+     "name": "Bootstrap",
+     "parentCategoryId": ""
+  }
+]
