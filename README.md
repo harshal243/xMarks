@@ -1,2 +1,2 @@
-npm insall
+npm install
 node server.js
